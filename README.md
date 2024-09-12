@@ -13,7 +13,7 @@
 
 ### Ручное обновление (Рекомендуется):
 
-1. **[Перейдите по ссылке](https://github.com/Alkohole/machine-reading-text/raw/main/ls.user.js)**.
+1. **[Перейдите по ссылке](https://github.com/Alkohole/layoutSwitcher/raw/main/ls.user.js)**.
 2. Нажмите кнопку **Перезаписать**
 
 ### Авто обновление (Не рекомендуется):
